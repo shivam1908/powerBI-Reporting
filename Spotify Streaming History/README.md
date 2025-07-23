@@ -1,4 +1,4 @@
-Spotify Data Analysis Dashboard
+Spotify Data Analysis Dashboard 
 Domain: Music Streaming Analytics
 Report Type: Executive Dashboard + Exploratory Analysis
 Toolset: Power BI Desktop | DAX | Power Query | Time Intelligence | Data Modeling | Custom Visuals
