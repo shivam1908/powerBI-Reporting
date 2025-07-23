@@ -1,0 +1,15 @@
+{
+  "name": "Spotify Dark Theme",
+  "dataColors": ["#1DB954", "#1ED760", "#535353", "#3E3E3E"],
+  "background": "#191414",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#1DB954",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [{ "solid": { "color": "#FFFFFF" } }],
+        "fontSize": "12px"
+      }
+    }
+  }
+}
