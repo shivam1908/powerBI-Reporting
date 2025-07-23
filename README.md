@@ -11,58 +11,60 @@ These projects span domains like retail, music streaming, and executive KPI anal
 Here’s how the repository is organized:
 
 powerBI-Reporting/
-│
-├── spotify_reporting/
-│ ├── spotify_reporting.pbix
-│ ├── images/
-│ │ └── spotify-thumbnail.png
-│ └── README.md ← Detailed description of the Spotify project
-│
-├── maven_market_report/
-│ ├── MavenMarket_Report_Analysis.pbix
-│ ├── images/
-│ │ └── maven-thumbnail.png
-│ └── README.md ← Maven Market KPI dashboard write-up
-│
-├── adventureworks_kpi/
-│ ├── AdventureWorks_KPI.pbix
-│ ├── images/
-│ │ └── adventureworks-thumbnail.png
-│ └── README.md ← AdventureWorks executive dashboard details
-│
-└── README.md ← You're here!
+│  
+├── spotify_reporting/  
+│ ├── spotify_reporting.pbix  
+│ ├── images/  
+│ │ └── spotify-thumbnail.png  
+│ └── README.md ← Detailed description of the Spotify project  
+│  
+├── maven_market_report/  
+│ ├── MavenMarket_Report_Analysis.pbix  
+│ ├── images/  
+│ │ └── maven-thumbnail.png  
+│ └── README.md ← Maven Market KPI dashboard write-up  
+│  
+├── adventureworks_kpi/  
+│ ├── AdventureWorks_KPI.pbix  
+│ ├── images/  
+│ │ └── adventureworks-thumbnail.png  
+│ └── README.md ← AdventureWorks executive dashboard details  
+│   
+└── README.md ← You're here!  
 
 ---
 
 ## 📂 Project Reports
 
-### 🎵 [Spotify Music Analytics](spotify_reporting/)
+### 🧮 [AdventureWorks Executive KPI Report](AdventureWorks KPI Analysis/)
 
-<img src="spotify_reporting/images/spotify-thumbnail.png" alt="Spotify Dashboard" width="600"/>
-
-A deep-dive into Spotify track metrics like popularity, danceability, energy, and genre trends using audio feature data.
-
-➡️ [Explore Project →](spotify_reporting/README.md)
-
----
-
-### 🛒 [Maven Market KPI Dashboard](maven_market_report/)
-
-<img src="maven_market_report/images/maven-thumbnail.png" alt="Maven Market Dashboard" width="600"/>
-
-Retail performance dashboard tracking profit, margin, transactions, and return rate by brand and geography.
-
-➡️ [Explore Project →](maven_market_report/README.md)
-
----
-
-### 🧮 [AdventureWorks Executive KPI Report](adventureworks_kpi/)
-
-<img src="adventureworks_kpi/images/adventureworks-thumbnail.png" alt="AdventureWorks KPI Dashboard" width="600"/>
+<img src="AdventureWorks KPI Analysis/Screenshots/Dashboard.png" alt="AdventureWorks KPI Dashboard" width="600"/>
 
 Executive-level dashboard for AdventureWorks sales data with revenue trends, product KPIs, and performance vs targets.
 
-➡️ [Explore Project →](adventureworks_kpi/README.md)
+➡️ [Explore Project →](AdventureWorks KPI Analysis/README.md)
+
+
+### 🎵 [Spotify Music Analytics](Spotify Streaming History/)
+
+<img src="Spotify Streaming History/screenshots/Artists_Default.jpg" alt="Spotify Dashboard" width="600"/>
+
+A deep-dive into Spotify track metrics like popularity, danceability, energy, and genre trends using audio feature data.
+
+➡️ [Explore Project →](Spotify Streaming History/README.md)
+
+---
+
+### 🛒 [Maven Market KPI Dashboard](Maven Market/)
+
+<img src="Maven Market/Screenshots/Dashboard.png" alt="Maven Market Dashboard" width="600"/>
+
+Retail performance dashboard tracking profit, margin, transactions, and return rate by brand and geography.
+
+➡️ [Explore Project →](Maven Market/README.md)
+
+---
+
 
 ---
 
