@@ -4,9 +4,9 @@
 🌐 Embedded Report (Live Demo)  
 🧪 Test and interact with this dashboard online  -- Click the Link to access Report   
 🔗 [AdventureWorks KPI Analysis] 
-<iframe title="AdventureWorks KPI Analysis"
-  width="600" height="636" 
-  src="https://app.powerbi.com/view?r=eyJrIjoiY2UxN2IzZmUtZDZkOS00MDcwLWEzMGItZmNlNTBhMWQ4MzRmIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9&pageName=a397e3f0080e8cc1e13a"
+<iframe title="AdventureWorks KPI Analysis"  
+  width="600" height="636"   
+  src="https://app.powerbi.com/view?r=eyJrIjoiY2UxN2IzZmUtZDZkOS00MDcwLWEzMGItZmNlNTBhMWQ4MzRmIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9&pageName=a397e3f0080e8cc1e13a"  
   frameborder="0" allowFullScreen="true"></iframe>
 
 
