@@ -11,7 +11,7 @@
 **Report Type**: Executive KPI & Sales Performance Dashboard
 
 
-https://app.powerbi.com/reportEmbed?reportId=bbd0e925-27eb-4822-89d6-d17db17a6be5&autoAuth=true&ctid=289292cb-4057-4f4a-b1b2-dbc586678eb5
+[![AdventureWorks Dashboard](Screenshots/Dashboard.png)](https://app.powerbi.com/reportEmbed?reportId=bbd0e925-27eb-4822-89d6-d17db17a6be5&autoAuth=true&ctid=289292cb-4057-4f4a-b1b2-dbc586678eb5)
 
 ---
 
