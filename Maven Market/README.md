@@ -3,7 +3,7 @@
 🌐 Embedded Report (Live Demo)  
 🧪 Test and interact with this dashboard online  -- Click the Link to access Report   
 🔗 [AdventureWorks KPI Analysis] 
-<iframe title="MavenMarket_Report_Analysis" width="600" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiZjgwMmNlMjItNGI4Zi00NzVkLWFjNGMtODBmMGUxODM5ZWIzIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9" frameborder="0" allowFullScreen="true"></iframe> 
+[![AdventureWorks Dashboard](Screenshots/Dashboard.png)](<iframe title="MavenMarket_Report_Analysis" width="600" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiZjgwMmNlMjItNGI4Zi00NzVkLWFjNGMtODBmMGUxODM5ZWIzIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9" frameborder="0" allowFullScreen="true"></iframe>)
 
 
 **Domain**: Retail / E-Commerce  
@@ -11,7 +11,6 @@
 **Report Type**: Executive KPI & Sales Performance Dashboard
 
 
-[![AdventureWorks Dashboard](Screenshots/Dashboard.png)](https://app.powerbi.com/reportEmbed?reportId=bbd0e925-27eb-4822-89d6-d17db17a6be5&autoAuth=true&ctid=289292cb-4057-4f4a-b1b2-dbc586678eb5)
 
 ---
 
