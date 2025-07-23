@@ -78,14 +78,27 @@ Retail performance dashboard tracking profit, margin, transactions, and return r
 
 ---
 
-## 💡 About Me
+## 👨‍💻 About Me
 
-I'm **Shivam Mahajan**, a data engineer passionate about building scalable data solutions and intuitive dashboards.  
-Connect with me:
+I'm **Shivam Mahajan**, a certified **Data Engineer and Power BI Developer** with experience in designing and implementing scalable data solutions and business intelligence dashboards.
 
-- [LinkedIn](https://www.linkedin.com/in/shivam2212/)
-- [GitHub](https://github.com/shivam1908)
-- [Email](mailto:shivammahajan1908@gmail.com)
+With a strong foundation in **SQL**, **Python**, **Power BI**, and **Azure**, I specialize in building data pipelines, semantic data models, and interactive reports that drive actionable insights. My technical toolkit includes:
+
+- 🔹 Building end-to-end ETL pipelines using **Azure Synapse**, **Databricks**, **Delta Lake**, and **SSIS**
+- 🔹 Developing high-performance dashboards with **Power BI**, leveraging advanced **DAX**, **Power Query**, and **Row-Level Security (RLS)**
+- 🔹 Applying **Medallion Architecture** and **Lakehouse design patterns** for structured and semi-structured data
+- 🔹 Automating workflows and optimizing data transformations using **PySpark**, **T-SQL**, and serverless SQL pools
+
+I'm passionate about bridging the gap between raw data and decision-making by building clean, accessible, and powerful reporting tools.
+
+---
+
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shivam2212/)
+- 🐙 [GitHub](https://github.com/shivam1908)
+- 📧 [shivammahajan1908@gmail.com](mailto:shivammahajan1908@gmail.com)
+- 📊 [Power BI Portfolio on Maven Analytics](https://mavenanalytics.io/profile/shivam1908)
 
 ---
 
