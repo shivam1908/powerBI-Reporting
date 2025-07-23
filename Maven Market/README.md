@@ -5,8 +5,8 @@
 🔗 [AdventureWorks KPI Analysis] 
 <iframe title="MavenMarket_Report_Analysis" width="600" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiZjgwMmNlMjItNGI4Zi00NzVkLWFjNGMtODBmMGUxODM5ZWIzIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9" frameborder="0" allowFullScreen="true"></iframe>
     
-
-
+  
+  
 **Domain**: Retail / E-Commerce  
 **Toolset**: Power BI Desktop | Power Query | DAX | Geospatial Mapping | Time Intelligence  
 **Report Type**: Executive KPI & Sales Performance Dashboard
