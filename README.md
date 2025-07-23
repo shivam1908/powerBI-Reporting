@@ -42,7 +42,7 @@ powerBI-Reporting/
 
 Executive-level dashboard for AdventureWorks sales data with revenue trends, product KPIs, and performance vs targets.
 
-➡️ [Explore Project →]("AdventureWorks KPI Analysis/README.md")
+➡️ [Explore Project →](AdventureWorks KPI Analysis/README.md)
 
 
 ### 🎵 [Spotify Music Analytics](Spotify Streaming History/)
