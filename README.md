@@ -42,7 +42,7 @@ powerBI-Reporting/
 
 Executive-level dashboard for AdventureWorks sales data with revenue trends, product KPIs, and performance vs targets.
 
-➡️ [Explore Project →](AdventureWorks%20KPI%20Analysis/README.md)
+➡️ [Explore Live Report →](AdventureWorks%20KPI%20Analysis/README.md)
 
 
 ### 🎵 [Spotify Music Analytics](Spotify Streaming History/)
@@ -51,7 +51,7 @@ Executive-level dashboard for AdventureWorks sales data with revenue trends, pro
 
 A deep-dive into Spotify track metrics like popularity, danceability, energy, and genre trends using audio feature data.
 
-➡️ [Explore Project →](Spotify%20Streaming%20History/README.md)
+➡️ [Explore Live Report →](Spotify%20Streaming%20History/README.md)
 
 ---
 
@@ -61,7 +61,7 @@ A deep-dive into Spotify track metrics like popularity, danceability, energy, an
 
 Retail performance dashboard tracking profit, margin, transactions, and return rate by brand and geography.
 
-➡️ [Explore Project →](Maven%20Market/README.md)
+➡️ [Explore Live Report →](Maven%20Market/README.md)
 
 ---
 
