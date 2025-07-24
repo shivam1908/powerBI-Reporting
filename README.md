@@ -14,20 +14,20 @@ powerBI-Reporting/
 │  
 ├── spotify_reporting/  
 │ ├── spotify_reporting.pbix  
-│ ├── images/  
-│ │ └── spotify-thumbnail.png  
+│ ├── screenshots/  
+│ │ └── Artists_Default.jpg  
 │ └── README.md ← Detailed description of the Spotify project  
 │  
 ├── maven_market_report/  
 │ ├── MavenMarket_Report_Analysis.pbix  
-│ ├── images/  
-│ │ └── maven-thumbnail.png  
+│ ├── Screenshots/  
+│ │ └── Dashboard.png  
 │ └── README.md ← Maven Market KPI dashboard write-up  
 │  
 ├── adventureworks_kpi/  
 │ ├── AdventureWorks_KPI.pbix  
-│ ├── images/  
-│ │ └── adventureworks-thumbnail.png  
+│ ├── Screenshots/  
+│ │ └── Dashboard.png  
 │ └── README.md ← AdventureWorks executive dashboard details  
 │   
 └── README.md ← You're here!  
