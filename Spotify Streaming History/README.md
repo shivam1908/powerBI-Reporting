@@ -4,7 +4,7 @@
 **Toolset**: Power BI Desktop | Power Query | DAX | Time Intelligence | Audio Feature Modeling  
 **Report Type**: Music Insights & Trend Analysis Dashboard
 
-[![Spotify Music Dashboard](screenshots/Artists_Default.jpg)(https://app.powerbi.com/view?r=eyJrIjoiMWNmM2MyMGMtYTEzMy00NmEwLWIxZWYtNTllNmZjNDQ3YzkzIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9)]
+[![Spotify Music Dashboard](screenshots/Artists_Default.jpg)](https://app.powerbi.com/view?r=eyJrIjoiMWNmM2MyMGMtYTEzMy00NmEwLWIxZWYtNTllNmZjNDQ3YzkzIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9)
 **[Click to View Live Report](https://app.powerbi.com/view?r=eyJrIjoiMWNmM2MyMGMtYTEzMy00NmEwLWIxZWYtNTllNmZjNDQ3YzkzIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9)**
 
 
