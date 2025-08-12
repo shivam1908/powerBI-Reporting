@@ -9,7 +9,7 @@
 🌐 Embedded Report (Live Demo)  
 🧪 Test and interact with this dashboard online  
    
-![AdventureWorks Dashboard](Screenshots/Dashboard.png)  
+[![AdventureWorks Dashboard](Screenshots/Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiZjgwMmNlMjItNGI4Zi00NzVkLWFjNGMtODBmMGUxODM5ZWIzIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9) 
 
 
 🔗**[Click to access Report](https://app.powerbi.com/view?r=eyJrIjoiZjgwMmNlMjItNGI4Zi00NzVkLWFjNGMtODBmMGUxODM5ZWIzIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9)**  
