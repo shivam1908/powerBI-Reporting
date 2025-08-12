@@ -38,7 +38,7 @@ powerBI-Reporting/
 
 ### 🧮 [AdventureWorks Executive KPI Report](AdventureWorks KPI Analysis/)
 
-<img src="AdventureWorks KPI Analysis/Screenshots/Dashboard.png" alt="AdventureWorks KPI Dashboard" width="600"/>
+[<img src="AdventureWorks KPI Analysis/Screenshots/Dashboard.png" alt="AdventureWorks KPI Dashboard" width="600"/>](https://app.powerbi.com/view?r=eyJrIjoiY2UxN2IzZmUtZDZkOS00MDcwLWEzMGItZmNlNTBhMWQ4MzRmIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9)
 
 Executive-level dashboard for AdventureWorks sales data with revenue trends, product KPIs, and performance vs targets.
 
