@@ -47,7 +47,7 @@ Executive-level dashboard for AdventureWorks sales data with revenue trends, pro
 
 ### 🎵 [Spotify Music Analytics](Spotify Streaming History/)
 
-<img src="Spotify Streaming History/screenshots/Artists_Default.jpg" alt="Spotify Dashboard" width="600"/>
+[<img src="Spotify Streaming History/screenshots/Artists_Default.jpg" alt="Spotify Dashboard" width="600"/>](https://app.powerbi.com/view?r=eyJrIjoiMWNmM2MyMGMtYTEzMy00NmEwLWIxZWYtNTllNmZjNDQ3YzkzIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9)
 
 A deep-dive into Spotify track metrics like popularity, danceability, energy, and genre trends using audio feature data.
 
@@ -57,7 +57,7 @@ A deep-dive into Spotify track metrics like popularity, danceability, energy, an
 
 ### 🛒 [Maven Market KPI Dashboard](Maven Market/)
 
-<img src="Maven Market/Screenshots/Dashboard.png" alt="Maven Market Dashboard" width="600"/>
+[<img src="Maven Market/Screenshots/Dashboard.png" alt="Maven Market Dashboard" width="600"/>](https://app.powerbi.com/view?r=eyJrIjoiZjgwMmNlMjItNGI4Zi00NzVkLWFjNGMtODBmMGUxODM5ZWIzIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9)
 
 Retail performance dashboard tracking profit, margin, transactions, and return rate by brand and geography.
 
