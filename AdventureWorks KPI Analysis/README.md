@@ -9,7 +9,11 @@
 🧪 Test and interact with this dashboard online   
 ![AdventureWorks Dashboard](Screenshots/Dashboard.png)  
 
-🔗 **Click the Link to access Report**  
+🔗 **(Click to access Report)[https://app.powerbi.com/view?r=eyJrIjoiY2UxN2IzZmUtZDZkOS00MDcwLWEzMGItZmNlNTBhMWQ4MzRmIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9]**  
+ 
+
+
+
 <iframe title="AdventureWorks KPI Analysis"  
   width="600" height="636"   
   src="https://app.powerbi.com/view?r=eyJrIjoiY2UxN2IzZmUtZDZkOS00MDcwLWEzMGItZmNlNTBhMWQ4MzRmIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9&pageName=a397e3f0080e8cc1e13a"  
