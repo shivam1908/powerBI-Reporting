@@ -9,7 +9,7 @@
 🧪 Test and interact with this dashboard online   
 ![AdventureWorks Dashboard](Screenshots/Dashboard.png)  
 
-🔗 **(Click to access Report)[https://app.powerbi.com/view?r=eyJrIjoiY2UxN2IzZmUtZDZkOS00MDcwLWEzMGItZmNlNTBhMWQ4MzRmIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9]**  
+🔗 **[Click to access Report](https://app.powerbi.com/view?r=eyJrIjoiY2UxN2IzZmUtZDZkOS00MDcwLWEzMGItZmNlNTBhMWQ4MzRmIiwidCI6IjI4OTI5MmNiLTQwNTctNGY0YS1iMWIyLWRiYzU4NjY3OGViNSJ9)**  
  
 
 
